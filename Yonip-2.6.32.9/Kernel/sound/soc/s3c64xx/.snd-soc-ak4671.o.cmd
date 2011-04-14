@@ -1,0 +1,1 @@
+cmd_sound/soc/s3c64xx/snd-soc-ak4671.o := /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o sound/soc/s3c64xx/snd-soc-ak4671.o sound/soc/s3c64xx/s3c6410-ak4671.o 

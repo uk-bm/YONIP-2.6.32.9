@@ -1,0 +1,1 @@
+cmd_crypto/crypto_algapi.o := /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o crypto/crypto_algapi.o crypto/algapi.o crypto/scatterwalk.o crypto/proc.o 

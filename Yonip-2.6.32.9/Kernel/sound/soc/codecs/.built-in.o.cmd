@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o sound/soc/codecs/built-in.o sound/soc/codecs/snd-soc-ak4671-infobowlq.o 

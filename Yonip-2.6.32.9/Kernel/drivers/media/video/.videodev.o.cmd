@@ -1,0 +1,1 @@
+cmd_drivers/media/video/videodev.o := /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/media/video/videodev.o drivers/media/video/v4l2-dev.o drivers/media/video/v4l2-ioctl.o drivers/media/video/v4l2-device.o 

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/usb/gadget/built-in.o drivers/usb/gadget/fsa9480_i2c.o drivers/usb/gadget/s3c-udc-otg-hs.o drivers/usb/gadget/g_android_adb_ums_acm.o 

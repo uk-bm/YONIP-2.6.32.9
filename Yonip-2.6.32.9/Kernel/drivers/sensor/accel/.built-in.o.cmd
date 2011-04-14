@@ -1,0 +1,1 @@
+cmd_drivers/sensor/accel/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/sensor/accel/built-in.o drivers/sensor/accel/bma020_i2c.o drivers/sensor/accel/bma020_acc.o drivers/sensor/accel/bma020.o 

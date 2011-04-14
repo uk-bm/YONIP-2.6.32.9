@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/s3c-keypad.o 

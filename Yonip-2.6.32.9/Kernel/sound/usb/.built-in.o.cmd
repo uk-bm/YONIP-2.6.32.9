@@ -1,0 +1,1 @@
+cmd_sound/usb/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o sound/usb/built-in.o sound/usb/usx2y/built-in.o sound/usb/caiaq/built-in.o 

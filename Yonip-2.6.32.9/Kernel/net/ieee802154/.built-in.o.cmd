@@ -1,0 +1,1 @@
+cmd_net/ieee802154/built-in.o :=  rm -f net/ieee802154/built-in.o; /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ar rcs net/ieee802154/built-in.o

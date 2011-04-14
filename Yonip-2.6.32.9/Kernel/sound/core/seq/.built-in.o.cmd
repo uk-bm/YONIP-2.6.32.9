@@ -1,0 +1,1 @@
+cmd_sound/core/seq/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o sound/core/seq/built-in.o sound/core/seq/snd-seq.o sound/core/seq/snd-seq-device.o sound/core/seq/snd-seq-midi-event.o sound/core/seq/oss/built-in.o 

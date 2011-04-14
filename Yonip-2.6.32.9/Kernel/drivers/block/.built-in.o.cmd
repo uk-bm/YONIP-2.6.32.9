@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/block/built-in.o drivers/block/brd.o drivers/block/loop.o 

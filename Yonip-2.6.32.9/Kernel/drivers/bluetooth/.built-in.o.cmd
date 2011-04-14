@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/bluetooth/built-in.o drivers/bluetooth/hci_vhci.o drivers/bluetooth/hci_uart.o drivers/bluetooth/btsdio.o 

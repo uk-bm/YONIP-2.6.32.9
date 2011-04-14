@@ -1,0 +1,1 @@
+cmd_drivers/base/power/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/base/power/built-in.o drivers/base/power/sysfs.o drivers/base/power/main.o 

@@ -1,0 +1,1 @@
+cmd_drivers/video/samsung/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/video/samsung/built-in.o drivers/video/samsung/s3cfb.o drivers/video/samsung/s3cfb_spi.o drivers/video/samsung/s3cfb_fimd4x.o drivers/video/samsung/s3cfb_s6d05a.o 

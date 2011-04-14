@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=  /home/banjo/ctng/opt/arm-spica-linux-uclibcgnueabi/bin/arm-spica-linux-uclibcgnueabi-ld -EL    -r -o drivers/mmc/host/built-in.o drivers/mmc/host/sdhci.o drivers/mmc/host/sdhci-pltfm.o drivers/mmc/host/sdhci-s3c.o 
